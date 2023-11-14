@@ -116,6 +116,8 @@ An example is shown below.
   ```
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### 3.2 Installation
 
 1. Download the latest `tavigator.jar` from [here](https://github.com/AY2324S1-CS2103T-T09-4/tp/releases).
@@ -144,6 +146,7 @@ An example is shown below.
 
    ![Ui](images/Ui.png)
 
+<div style="page-break-after: always;"></div>
 
 ### 3.3 Utilization
 
@@ -161,6 +164,8 @@ Some example commands you can try:
 * `exit` : Exits the app.
 
 Refer to the [Features](#4-features) below for details of each command.
+
+<div style="page-break-after: always;"></div>
 
 ### 3.4 Navigating the GUI
 

@@ -213,6 +213,8 @@ If you have reached here, great job! Let us now start exploring the various feat
 * If you are using a PDF version of this document, be careful when copying and pasting commands that span multiple lines as space characters surrounding line-breaks may be omitted when copied over to the application.
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### 4.1 Viewing Help
 
 Not sure what to do while in the app? Type the following command to get a quick link to this User Guide!
@@ -234,6 +236,8 @@ Course management is one of the essentials that you would have to master as a TA
 <div markdown="block" class="alert alert-warning">**:exclamation: Caution:**
 The parameter `COURSE_CODE` is used for all course management commands, it can be any string, including an empty one. In addition, if `COURSE_CODE` specified is too long, the end of the string will be truncated and other tabs may appear empty!
 </div>
+
+<div style="page-break-after: always;"></div>
 
 #### 4.2.1 Creating an address book: `course create`
 
@@ -270,6 +274,8 @@ Creates a new address book.
   **`Created [COURSE_CODE] address book.`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 #### 4.2.2 Deleting an address book: `course delete`
 
@@ -311,6 +317,8 @@ Deleting the currently active address book will automatically switch to another 
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.2.3 Switching an address book: `course switch`
 
 Now, what if you have many course to handle? Not a problem, you can simply switch between the courses that you are teaching with the following command! Best part? Our GUI will highlight the current course you are on!
@@ -347,6 +355,8 @@ Switches the active address book.
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.2.4 Editing an address book: `course edit`
 
 Of course, we all make mistakes. What if you accidentally mispelled the course code? The following will be your solution!
@@ -382,6 +392,8 @@ Edits the active address book course code.
   **`Edited address book course code to [COURSE_CODE].`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ### 4.3 Basic Student Management
 
@@ -450,6 +462,8 @@ Repeated/Duplicate student:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.3.2 Editing a contact: `edit`
 
 Once again, what if you make mistakes, or simply information about the student has changed? We are all about improving! The following command will help you to modify existing student contact!
@@ -510,6 +524,8 @@ Invalid command format:<br>
 `Example: edit 1 p/91234567 e/johndoe@example.com`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 #### 4.3.3 Marking attendance of student: `mark`
 
@@ -637,6 +653,8 @@ Non-existent student:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.3.4 Viewing summary of attendance: `list attendance`
 
 What is attendance tracking without an overview of the records of attendance? The following command will allow you to do so!
@@ -711,9 +729,11 @@ Incomplete attendance marking:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.3.5 Searching for student's contact via keyword: `find`
 
-You may now wonder, what if I want to quickly search up information about a student? The following command got you covered!
+You may now wonder what if I want to quickly search up information about a student? The following command got you covered!
 
 ![find command](images/findCommand.png)
 
@@ -766,6 +786,8 @@ Invalid command format:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.3.6 Listing students: `list students`
 
 What is student management without an overview of the students in the course? The following command will allow you to do so!
@@ -801,6 +823,7 @@ Invalid command format:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 #### 4.3.7 Deleting a student: `delete`
 
@@ -858,6 +881,8 @@ Invalid command format:<br>
 `Examples: delete 1, delete all, delete all tg/G01`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 #### 4.3.8 Deleting multiple students: `delete all`
 
@@ -918,6 +943,8 @@ Invalid command format:<br>
 `Examples: delete 1, delete all, delete all tg/G01`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 #### 4.3.9 Merging two students: `merge`
 
@@ -980,6 +1007,8 @@ Invalid index specified:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 #### 4.3.10 Viewing detailed attendance records: `view`
 
 Perhaps, halfway through the semester, you realised a particular student has not been coming to tutorial and you would like to investigate. The following command is particularly helpful in allowing you to view the detailed attendance records of a student.
@@ -1038,11 +1067,15 @@ Invalid index specified:<br>
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### 4.4 Exiting Program
 
 Exits the program.
 
 **Format:** `exit`
+
+<div style="page-break-after: always;"></div>
 
 ### 4.5 Data Management
 
@@ -1061,6 +1094,8 @@ If your changes to the data file makes its format invalid, TAvigator will discar
 #### 4.5.3 Archiving data files `[coming in v2.0]`
 
 _Details coming soon ..._
+
+<div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -1087,6 +1122,8 @@ At TAvigator, we are always looking to improve! Currently, the following are the
 
 5. **Viewing attendance records** may not return the attendance records in chronological order. This will be fixed in a future version!
 
+
+<div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
 

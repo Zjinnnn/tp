@@ -679,7 +679,6 @@ Non-existent student:<br>
 
 </div>
 
-<div style="page-break-after: always;"></div>
 
 #### 4.3.4 Viewing summary of attendance: `list attendance`
 

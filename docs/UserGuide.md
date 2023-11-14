@@ -16,6 +16,8 @@ Here's a quick overview of what you, as a Teaching Assisstant (TA) can do, with 
 
 That's it? Of course not! Apart from the functionalities mentioned, TAvigator is optimized for use via a Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, TAvigator can get your contact management tasks done faster than traditional GUI apps.
 
+<div style="page-break-after: always;"></div>
+
 ### Table of Contents
 
 - [1. Introduction](#1-introduction)
@@ -56,6 +58,8 @@ That's it? Of course not! Apart from the functionalities mentioned, TAvigator is
   - [7.2 Command Summary](#72-command-summary)
     - [7.2.1 Basic Course Management](#721-basic-course-management-commands)
     - [7.2.2 Basic Student Management](#722-basic-student-management-commands)
+
+<div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
 ## 2. About this User Guide

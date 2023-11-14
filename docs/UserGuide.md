@@ -64,7 +64,7 @@ That's it? Of course not! Apart from the functionalities mentioned, TAvigator is
 --------------------------------------------------------------------------------------------------------------------
 ## 2. About this User Guide
 
-TAvigator is all about your experience! This User Guide is designed with you in mind and it will be able to guide you along in learning how to use TAvigator!
+TAvigator is all about your experience! This User Guide is designed with you in mind, and it will be able to guide you along in learning how to use TAvigator!
 
 For :star: **First time users**, we're thrilled to have you here! We recommend you to follow the User Guide sequentially from here, to get the best experience!
 
@@ -72,7 +72,7 @@ For :star::star: **Experienced users**, thank you for choosing TAvigator! You ma
 
 ### 2.1 Navigating the User Guide
 
-Throughout the User Guide, you may find extra information provided for better clarity. These coloured boxes below will be useful, so do pay attention for them!
+Throughout the User Guide, you may find extra information provided for better clarity. These coloured boxes below will be useful, so do pay attention to them!
 
 **Information Box**
 <div markdown="block" class="alert alert-info">**:information_source: Info:**
@@ -127,7 +127,7 @@ An example is shown below.
 3. Open a command terminal, `cd` into the folder you put the jar file in, and use the `java -jar tavigator.jar` command to run the application.<br>
 
     <div markdown="block" class="alert alert-success">
-    **:bulb: Tip:** **Not sure how to check your Java version?**
+    **:bulb: Tip:** **TAvigator not opening?**
 
    **Step 1.** Open up **Command Prompt** (Windows) or **Terminal** (Mac and Linux).
 
@@ -144,7 +144,7 @@ An example is shown below.
 
    A GUI similar to the below should appear in a few seconds. Note how the app contains some sample data.<br>
 
-   ![Ui](images/Ui.png)
+   <img src="images/Ui.png" height="500px">
 
 <div style="page-break-after: always;"></div>
 

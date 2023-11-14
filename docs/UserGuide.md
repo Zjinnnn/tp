@@ -742,8 +742,6 @@ There are two special cases where `list attendance` would not provide the summar
 
 </div>
 
-<div style="page-break-after: always;"></div>
-
 **Erroneous Outputs:**
 
 <div markdown="block" class="alert alert-danger">
@@ -768,7 +766,7 @@ Incomplete attendance marking:<br>
 <div markdown="block" class="alert alert-danger">
 
 No students present in tutorial group specified:<br>
-**`There are no students in [COURSE_CODE] Tutorial Group [TUTORISL_GROUP_ID]`**
+**`There are no students in [COURSE_CODE] Tutorial Group [TUTORIAL_GROUP_ID]`**
 
 </div>
 
@@ -806,6 +804,8 @@ Finds a student's or multiple students' contact either via their name or student
   * Finds all contacts with the student ID "A0123456H".
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 **Expected Outputs:**
 
@@ -852,8 +852,6 @@ Shows a list of students in the course.
   **`Listed all students from [COURSE_CODE].`**
 
 </div>
-
-<div style="page-break-after: always;"></div>
 
 **Erroneous Outputs:**
 

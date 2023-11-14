@@ -89,6 +89,8 @@ I am an example tip box! I provide pointers to advanced users to enhance experie
 **:exclamation: Caution:** I am an example warning box! I show important messages to take note to avoid any unintended effects.
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## 3. Quick start
 
 Let us get you onboarded for this journey with TAvigator!
@@ -179,6 +181,8 @@ Displays the  course tabs that you can navigate to.
 Displays the list of your chosen tab.
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## 4. Features
 

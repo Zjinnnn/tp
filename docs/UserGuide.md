@@ -618,6 +618,8 @@ Marks the attendance of one or more student.
 Marking of attendance is not just fast, but smart as well. If you already marked the attendance of the student and would like to modify it, just simply repeat this command and TAvigator will handle it for you without creating duplicate attendance records!
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Expected Outputs:**
 
 <div markdown="block" class="alert alert-success">

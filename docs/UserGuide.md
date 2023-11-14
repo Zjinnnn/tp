@@ -545,7 +545,7 @@ Invalid command format:<br>
 <div markdown="block" class="alert alert-danger">
 
 No fields provided:<br>
-**`At least one field to edit must be provided.**
+**`At least one field to edit must be provided.`**
 
 </div>
 
@@ -699,6 +699,8 @@ Shows a summary of attendance records including list of absentees.
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 <div markdown="block" class="alert alert-warning">
 **:exclamation: Caution:** Note the following!
 There are two special cases where `list attendance` would not provide the summary of attendance records and list of absentees.
@@ -727,6 +729,8 @@ There are two special cases where `list attendance` would not provide the summar
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Expected Outputs:**
 
 <div markdown="block" class="alert alert-success">
@@ -737,6 +741,8 @@ There are two special cases where `list attendance` would not provide the summar
   `Listed all absent students:`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 **Erroneous Outputs:**
 
@@ -847,6 +853,8 @@ Shows a list of students in the course.
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Erroneous Outputs:**
 
 <div markdown="block" class="alert alert-danger">
@@ -896,6 +904,8 @@ Deletes the specified person from TAvigator.
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Expected Outputs:**
 
 <div markdown="block" class="alert alert-success">
@@ -939,6 +949,8 @@ Deletes all students from the course or all students from the specified tutorial
 * `TUTORIAL_GROUP_ID` should be a string made up of alphanumeric characters and spaces, with no special characters.
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 **Examples:**
 
@@ -1012,6 +1024,8 @@ Merges two students in the current address book.
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Expected Outputs:**
 
 <div markdown="block" class="alert alert-success">
@@ -1067,6 +1081,8 @@ Displays the detailed attendance record of the specified student.
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Example:**
 
 <div markdown="block" class="alert alert-secondary">
@@ -1114,7 +1130,6 @@ Exits the program.
 
 **Format:** `exit`
 
-<div style="page-break-after: always;"></div>
 
 ### 4.5 Data Management
 

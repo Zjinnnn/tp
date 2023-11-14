@@ -805,8 +805,6 @@ Finds a student's or multiple students' contact either via their name or student
 
 </div>
 
-<div style="page-break-after: always;"></div>
-
 **Expected Outputs:**
 
 <div markdown="block" class="alert alert-success">
@@ -852,6 +850,8 @@ Shows a list of students in the course.
   **`Listed all students from [COURSE_CODE].`**
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 **Erroneous Outputs:**
 

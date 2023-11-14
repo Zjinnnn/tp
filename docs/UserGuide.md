@@ -68,7 +68,7 @@ TAvigator is all about your experience! This User Guide is designed with you in 
 
 For :star: **First time users**, we're thrilled to have you here! We recommend you to follow the User Guide sequentially from here, to get the best experience!
 
-For :star::star: **Experienced users**, thank you for choosing TAvigator! You may click [here](#command-summary) to get to the summary of commands that you can utilise.
+For :star::star: **Experienced users**, thank you for choosing TAvigator! You may click [here](#72-command-summary) to get to the summary of commands that you can utilise.
 
 ### 2.1 Navigating the User Guide
 
@@ -368,7 +368,7 @@ Switches the active address book.
 
 #### 4.2.4 Editing an address book: `course edit`
 
-Of course, we all make mistakes. What if you accidentally mispelled the course code? The following will be your solution!
+Of course, we all make mistakes. What if you accidentally misspelled the course code? The following will be your solution!
 
 ![course edit](images/courseEdit.png)
 
